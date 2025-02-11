@@ -1,12 +1,10 @@
-Abstraction of Lane Detection Project
+##Abstraction of Lane Detection Project
                                                                                                                                       TEAM = 17
-Project Title: Lane Detection System Using Computer Vision
-Team Lead: Joginaidu Surla                                    
-Team Members:   > Nooka Raju
-                                 >Vamsi Dhanush
-		          >Shanmukhrao Gupta
-		          >Sai Krishna
-Introduction:
+#Project Title: Lane Detection System Using Computer Vision
+#Team Lead: Joginaidu Surla                                    
+#Team Members:   Bala NookaRaju, Vamsi Dhanush, Shanmukhrao Gupta, Sai Krishna
+
+#Introduction:
 Lane detection is a crucial aspect of autonomous driving and advanced driver-assistance systems (ADAS). This project focuses on developing a lane detection system using computer vision and deep learning techniques to enhance road safety by identifying and marking lane boundaries in real time.
 Objective:
 The primary objective of this project is to design and implement an efficient lane detection system capable of accurately identifying lane markings under various road conditions. This system will assist drivers and autonomous vehicles in lane-keeping, reducing the risk of accidents caused by lane deviation.
